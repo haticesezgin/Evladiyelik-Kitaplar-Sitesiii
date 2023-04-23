@@ -1,0 +1,26 @@
+ .border-bottom-black{
+     border-bottom: 1px solid black;
+ }
+ .border-top-white{
+     border-top: 1px solid white;
+ }
+ .background-black{
+     background: black;
+ }
+ .blog-card:hover {
+     cursor: pointer;
+     background: rgb(220,220,220);
+     box-shadow: 0 4px 8px 0 rgba( 0,0,0.2),0 6px 8px 0 rgba(0,0, 0,0.2);
+ }
+ .son-card:hover{
+     cursor: pointer;
+     background: rgb(220,220,220);
+     box-shadow: 0 4px 8px 0 rgba( 0,0,0.2),0 6px 8px 0 rgba(0,0, 0,0.2);
+
+ }
+ .trend-card:hover{
+     cursor: pointer;
+     background: rgb(220,220,220);
+     box-shadow: 0 4px 8px 0 rgba( 0,0,0.2),0 6px 8px 0 rgba(0,0, 0,0.2);
+
+ }
